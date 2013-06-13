@@ -23,13 +23,13 @@ class Bar
     ensure
     end
 
-    "nada"
+    "some description from Bar.foo"
   end
 end
 
 Gem::Specification.new do |s|  
   s.name        = "post_install"
-  s.version     = '0.0.3'
+  s.version     = '0.0.4'
   s.authors     = ["Benjamin Smith"]
   s.email       = ["benjamin.lee.smith@gmail.com"]
   s.homepage    = ""
