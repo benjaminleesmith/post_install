@@ -29,7 +29,7 @@ end
 
 Gem::Specification.new do |s|  
   s.name        = "post_install"
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.authors     = ["Benjamin Smith"]
   s.email       = ["benjamin.lee.smith@gmail.com"]
   s.homepage    = ""
